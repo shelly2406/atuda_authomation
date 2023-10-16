@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" >
+
+
+<!--    <test name="personal details test">-->
+<!--        <classes>-->
+<!--            <class name="Tests.PersonalDetailsTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="personal details Negative test">-->
+<!--        <classes>-->
+<!--            <class name="NegativeTests.NegativePDtest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+
+        <test name="statement Test 1">
+            <classes>
+                <class name="Tests.StatementTest"></class>
+            </classes>
+        </test>
+    <test name="statement Test 2">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 3">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 4">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 5">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 6">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 7">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 8">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 9">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 10">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 11">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 12">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 13">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 14">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 15">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 16">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 17">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 18">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 19">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 20">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 21">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 22">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 23">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 24">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 25">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 26">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 27">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 28">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 29">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 30">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 31">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 32">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 33">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 34">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 35">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 36">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+    <test name="statement Test 37">
+        <classes>
+            <class name="Tests.StatementTest"></class>
+        </classes>
+    </test>
+<!--    <test name="Negetive Statement Test Number Fields">-->
+<!--        <classes>-->
+<!--            <class name="NegativeTests.NegStatementTestNumFields"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
